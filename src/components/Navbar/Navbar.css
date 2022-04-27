@@ -1,0 +1,22 @@
+.navbar__main {
+    /* overflow: hidden; */
+}
+
+.nav-container {
+    width: 92%;
+    margin: 0 auto;
+}
+
+.nav-container .nav-item {
+    padding-left: 30px;
+}
+
+.nav-item a:hover {
+    color: #d63031 !important;
+}
+
+@media screen and (max-width: 990px) {
+    .nav-container .nav-item {
+        padding-left: 0;
+    }
+}

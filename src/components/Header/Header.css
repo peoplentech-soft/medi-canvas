@@ -1,0 +1,32 @@
+.header {
+    overflow: hidden;
+    color: black;
+    background-color: #F9FAFA;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+/* Header Container */
+.header-container {
+    overflow: hidden;
+}
+
+/* Header Content */
+.header-content {
+    padding-right: 30px;
+}
+
+.header-content p {
+    text-align: justify;
+}
+
+
+/* Header Banner */
+.header-banner {
+    overflow: hidden;
+}
+
+.header-banner img {
+    display: inline-block;
+    border-radius: 20px;
+}

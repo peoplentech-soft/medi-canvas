@@ -1,0 +1,22 @@
+.services {
+    padding: 50px 0;
+    overflow: hidden;
+    background-color: #F9FAFA;
+    height: 700px;
+}
+
+.service-content h3 {
+    font-weight: 600;
+}
+
+.service-content {
+    padding-left: 40px;
+}
+
+.service-img {
+    border-radius: 60px;
+}
+
+.service-img img {
+    display: inline-block;
+}

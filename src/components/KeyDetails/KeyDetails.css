@@ -1,0 +1,26 @@
+.key__details {
+    padding: 50px 0;
+    overflow: hidden;
+}
+
+.key-details-container .details-icon {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.key-details-container .details-item {
+    padding: 30px;
+}
+
+.details-item h5 {
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.details-item hr {
+    margin-top: 5px;
+}
+
+.details-item-short-title {
+    font-size: 14px;
+}
