@@ -27,3 +27,7 @@
 .color-brand {
   color: #e74c3c;
 }
+
+a {
+  text-decoration: none;
+}
