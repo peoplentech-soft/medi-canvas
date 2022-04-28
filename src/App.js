@@ -1,5 +1,7 @@
 import React from 'react';
 import './App.css';
+import About from './components/About/About';
+import Counter from './components/Counter/Counter';
 import Header from './components/Header/Header';
 import KeyDetails from './components/KeyDetails/KeyDetails';
 import Navbar from './components/Navbar/Navbar';
@@ -12,6 +14,8 @@ function App() {
       <Header />
       <KeyDetails />
       <Services />
+      <About />
+      <Counter />
     </div>
   );
 }
