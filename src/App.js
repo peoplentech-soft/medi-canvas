@@ -2,10 +2,12 @@ import React from 'react';
 import './App.css';
 import About from './components/About/About';
 import Appointment from './components/Appointment/Appointment';
+import Contact from './components/Contact/Contact';
 import Counter from './components/Counter/Counter';
 import Departments from './components/Departments/Departments';
 import Doctors from './components/Doctors/Doctors';
 import FAQ from './components/FAQ/FAQ';
+import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import KeyDetails from './components/KeyDetails/KeyDetails';
 import MoreService from './components/MoreService/MoreService';
@@ -28,6 +30,8 @@ function App() {
       <Testimonial />
       <Doctors />
       <FAQ />
+      <Contact />
+      <Footer />
     </div>
   );
 }
