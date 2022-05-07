@@ -5,6 +5,7 @@ import Appointment from './components/Appointment/Appointment';
 import Counter from './components/Counter/Counter';
 import Departments from './components/Departments/Departments';
 import Doctors from './components/Doctors/Doctors';
+import FAQ from './components/FAQ/FAQ';
 import Header from './components/Header/Header';
 import KeyDetails from './components/KeyDetails/KeyDetails';
 import MoreService from './components/MoreService/MoreService';
@@ -26,6 +27,7 @@ function App() {
       <Departments />
       <Testimonial />
       <Doctors />
+      <FAQ />
     </div>
   );
 }
