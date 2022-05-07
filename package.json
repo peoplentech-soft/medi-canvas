@@ -1,5 +1,6 @@
 {
   "name": "medi-canvas",
+  "homepage": "https://apps.piit.us/portfolio/medicanvas.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
