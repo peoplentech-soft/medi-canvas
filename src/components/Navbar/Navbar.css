@@ -60,7 +60,7 @@
   */
   .appointment-btn {
     margin-left: 25px;
-    background: #3fbbc0;
+    background: #e74c3c;
     color: #fff;
     border-radius: 4px;
     padding: 8px 25px;
@@ -70,7 +70,7 @@
     display: inline-block;
   }
   .appointment-btn:hover {
-    background: #65c9cd;
+    background: #223A66;
     color: #fff;
   }
   @media (max-width: 768px) {
@@ -123,7 +123,7 @@
     margin-left: 5px;
   }
   .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-    color: #3fbbc0;
+    color: #e74c3c;
   }
   .navbar .dropdown ul {
     display: block;
@@ -151,7 +151,7 @@
     font-size: 12px;
   }
   .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-    color: #3fbbc0;
+    color: #e74c3c;
   }
   .navbar .dropdown:hover > ul {
     opacity: 1;
@@ -237,7 +237,7 @@
     color: #555555;
   }
   .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-    color: #3fbbc0;
+    color: #e74c3c;
   }
   .navbar-mobile .dropdown ul {
     position: static;
@@ -260,7 +260,7 @@
     font-size: 12px;
   }
   .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-    color: #3fbbc0;
+    color: #e74c3c;
   }
   .navbar-mobile .dropdown > .dropdown-active {
     display: block;

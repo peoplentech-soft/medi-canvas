@@ -26,7 +26,7 @@ const Counter = () => {
                     <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
                         <div className="count-box">
                             <FontAwesomeIcon icon={faHospital} className="count-icon"/>
-                            <span className="singleCount">77</span>
+                            <span className="singleCount">7</span>
                             <p><strong>Departments</strong> adipisci atque cum quia aut numquam delectus</p>
                             <a href="#">Find out more &raquo;</a>
                         </div>
@@ -35,7 +35,7 @@ const Counter = () => {
                     <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
                         <div className="count-box">
                             <FontAwesomeIcon icon={faFlask} className="count-icon"/>
-                            <span className="singleCount">125</span>
+                            <span className="singleCount">12</span>
                             <p><strong>Research Lab</strong> aut commodi quaerat. Aliquam ratione</p>
                             <a href="#">Find out more &raquo;</a>
                         </div>
