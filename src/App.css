@@ -15,7 +15,7 @@
 .section-title h2 {
   font-size: 28px;
   font-weight: 600;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
