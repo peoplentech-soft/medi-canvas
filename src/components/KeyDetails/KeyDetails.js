@@ -16,7 +16,7 @@ const KeyDetails = () => {
                                     <p className="mb-1 details-item-short-title"><span className="color-brand">24/7 Hours</span> Service</p>
                                     <h5 class="card-title">Online Appoinment</h5>
                                     <p class="card-text mb-4">Get all time support for emergency.We have introduced the principle of family medicine.</p>
-                                    <button className="btn button-brand">Make Appointment</button>
+                                    <button className="btn button-brand" data-bs-toggle="modal" data-bs-target="#exampleModal">Make Appointment</button>
                                 </div>
                             </div>
                         </div>
@@ -51,7 +51,7 @@ const KeyDetails = () => {
                                     <p className="mb-1 details-item-short-title"><span className="color-brand">Emegency</span> Cases</p>
                                     <h5 class="card-title">1-800-700-6200</h5>
                                     <p class="card-text mb-4">Get ALl time support for emergency.We have introduced the principle of family medicine.</p>
-                                    <button className="btn button-brand">Make Appointment</button>
+                                    <button className="btn button-brand" data-bs-toggle="modal" data-bs-target="#exampleModal">Make Appointment</button>
                                 </div>
                             </div>
                         </div>
