@@ -58,12 +58,12 @@ const Footer = () => {
                     </div>
                 </div>
 
-                <div class="container-brand">
+                <div class="container-brand footer-bottom d-flex flex-left">
                     <div class="copyright">
-                        &copy; Copyright <strong><span>MediCanvas</span></strong>. All Rights Reserved
+                        &copy; Copyright <strong><span>MediCanvas</span></strong>. All Rights Reserved || Designed by <a href="https://peoplentech.net/">PeopleNTech</a>
                     </div>
                     <div class="credits">
-                        Designed by <a href="https://peoplentech.net/">PeopleNTech</a>
+                        
                     </div>
                 </div>
 

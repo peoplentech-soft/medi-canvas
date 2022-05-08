@@ -1,12 +1,12 @@
 .footer {
     background: #eeeeee;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     color: #555555;
     font-size: 14px;
     overflow: hidden;
   }
   .footer .footer-top {
-    background: #f6f6f6;
+    background-color: white;
     padding: 60px 0 30px 0;
   }
   .footer .footer-top .footer-info {
@@ -112,10 +112,14 @@
   }
   .footer .copyright {
     text-align: center;
-    padding-top: 30px;
+    /* padding-top: 30px; */
   }
   .footer .credits {
-    padding-top: 10px;
+    /* padding-top: 10px; */
     text-align: center;
     font-size: 13px;
+  }
+
+  .footer-bottom {
+    padding-top: 20px;
   }
